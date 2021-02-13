@@ -7,3 +7,5 @@ PS: We staan achter de politie en waarderen hun dagelijkse inzet voor ons land. 
 Wil je contact met ons opnemen?
 
 We zijn te benaderen op: avondgok@gmail.com, we streven ernaar om na negenen te antwoorden.
+
+Privacy: we slaan geen gebruikersdata op, alleen de locaties die de gebruiker doorgeeft, deze worden zonder persoonsgegevens opgeslagen.
